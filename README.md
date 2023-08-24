@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunriseOverYourHead
 - 👀 I’m an undergrad CS student but i still have no idea what i'm doing
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning to hate relational databases
 - 💞️ I like CTFs and programming challenges in general
 - 📫 you can try to reach me at #sunrise_o_y_h in discord but I have 4 accounts and i hardly check any of them
 

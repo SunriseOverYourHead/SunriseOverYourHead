@@ -1,13 +1,12 @@
-- 👋 Hi, I’m @SunriseOverYourHead
-- 👀 I’m an undergrad CS student, but that doesn't say anything because my code is somehow worse than before I enrolled.
-- 🌱 I’m currently learning to yap to recruiters on LinkedIN.
-- 💞️ I like art and drawing, which I deepily regret not pursuing instead.
-- 📫 You can try to reach me at #sunrise_o_y_h in discord but I take a while to answer, since it's my least active account.
+- 👋 Hi, I’m @SunriseOverYourHead -- But I usually go by BugWasabi on discord and social media.
+- 👀 I’m an undergrad CS student. This is my non-professional github account for funsies and other projects.
+- 🌱 I currently work mostly with Ruby and Python for, respectively, back-end development and maintaining AI-powered solutions.
+- 💞️ I'm passionate about art, especially digital art. It started as a passtime to distract me from Uni and it quickly grew into a hobby I enjoy and love. I also swim a lot.
+- 📫 You can reach me at #bugwasabi in discord. I also have a FA. Studying CS, I guess the shoe fits the bill, huh?
 
-I am incredibly incompetent in all of the following:
+I can do some fancy things in these languages:
 
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,html,css,js,swift,arduino,postgres)
-
+![My Skills](https://skillicons.dev/icons?i=ruby,py,java,c)
 <!---
 SunriseOverYourHead/SunriseOverYourHead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

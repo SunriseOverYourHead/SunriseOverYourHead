@@ -4,6 +4,8 @@
 - 💞️ I'm passionate about art, especially digital art. It started as a passtime to distract me from Uni and it quickly grew into a hobby I enjoy and love. I also swim a lot.
 - 📫 You can reach me at #bugwasabi in discord. I also have a FA. Studying CS, I guess the shoe fits the bill, huh?
 
+Occasionally I come out of my cave to contribute to open source games or mods that I am passionate about.
+
 I can do some fancy things in these languages:
 
 ![My Skills](https://skillicons.dev/icons?i=ruby,py,java,c)
